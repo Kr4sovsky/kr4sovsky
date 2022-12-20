@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Check out my [a link]portfolio(https://ninjastyle.nl) 
+Check out my [Portfolio](https://ninjastyle.nl) 
 
 | Personal Stats | Work Stats |
 | ---- | --- |
