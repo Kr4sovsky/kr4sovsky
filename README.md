@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Check out my [a link]portfolio(https://ninjastyle.nl) 
+
 | Personal Stats | Work Stats |
 | ---- | --- |
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kr4sovsky&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kr4sovskyInsight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
